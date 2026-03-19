@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GradeCalculator</string>
+    <string name="enter_a_mark_between_1_and_100">Enter a mark between 1 and 100</string>
+    <string name="grade_calculator">Grade Calculator</string>
+    <string name="calculate_grade">Calculate grade</string>
+    <string name="symbol_will_appear_here">Symbol will appear here</string>
+</resources>
