@@ -17,6 +17,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var tvGrade: TextView
     lateinit var symbol: String
 
+    // K-Pop
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
