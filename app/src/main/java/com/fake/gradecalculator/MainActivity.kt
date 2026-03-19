@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var symbol: String
 
     // K-Pop
-
+    //The choice is yours
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
